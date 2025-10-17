@@ -2,7 +2,7 @@
 
 ### A Proposal for Fiduciary and Epistemic Accountability in Higher Education
 
-by Peter Kahl, 2025-09-01
+by Peter Kahl, 2025-06-23
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -26,7 +26,7 @@ Kahl, P. (2025). _Toward academia’s own Hippocratic Oath: A proposal for fiduc
 
 ### Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 2025-09-01.
+First published in London by Lex et Ratio Ltd, 2025-06-23.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
